@@ -1,7 +1,7 @@
 import numpy as np
 from PIL import Image
 
-img = Image.open("images.png") # load image
+img = Image.open("images/<image>.png") # load image
 img = img.convert("L") # convert to grayscale
 # img.show()
 nda = np.array(img) # get array
