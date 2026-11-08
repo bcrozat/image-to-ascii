@@ -1,0 +1,7 @@
+## About
+I wrote this simple converter which opens an image, transform it into a ndarray, and then map it to a custom ascii characters ramp.
+Done without AI as an exercise, just thinking about the logic + reading docs, forums, and ascii theory.
+
+## References
+- https://asciiforge.com/en/ascii-character-density/
+- https://ascii-images.com/tutorials/character-density-explained
